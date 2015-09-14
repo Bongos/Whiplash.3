@@ -217,5 +217,9 @@ padding-left:0;
  
  .top{color: #000;
  }
+ .top-sidebar h2 {
+    text-shadow: 0 0 3px #FF0000;
+} 
 
- }
+}
+
