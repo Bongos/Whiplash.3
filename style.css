@@ -18,7 +18,7 @@ a{
 text-decoration:none;	
 }
 a:link, a:visited{
-color:#cf5c3f;	
+color:#0000;	
 }
 a:hover, a:active{
 	background-color: #CCCCCC;
@@ -220,6 +220,17 @@ padding-left:0;
  .top-sidebar h2 {
     text-shadow: 0 0 3px #FF0000;
 } 
-
+ .content p{
+    text-shadow: 0 0 3px #FF0000;
+} 
 }
 
+#playlist,audio{background:#666;width:400px;padding:20px;}
+
+	.active a{color:#5DB0E6;text-decoration:none;}
+
+	li a{color:#eeeedd;background:#;padding:5px;display:block;}
+
+	li a:hover{text-decoration:none;}
+
+	video{background:#666;width:400px;height: 200px; padding:20px;}
